@@ -3,31 +3,10 @@ This is the Make4Covid fork of the Charlotte MEDI's fork of Prusa's face shield.
 
 * https://www.make4covid.co/
 
+* https://www.charlottemedi.org/
+
+* https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3
+
 In particular, Make4Covid is looking at injection molding `Headband.STEP` with
 Texlon Plastics Corporation in North Carolina.
 
-# Faceshields
-This repository is to keep track of novel designs of face mask for medical professional to use in critical times
-
-At this time these files are not meant to be mass produced in anyway. As of right now, this is for prototyping different designs.
-
-# March 22nd Print
-We are currently printing the Face Shield and can be found in the PrusaFaceShield file.
-
-# Resources:
-Prusa Face Shield
-
-https://blog.prusaprinters.org/from-design-to-mass-3d-printing-of-medical-shields-in-three-days/
-
-# Other Designs to think about (May be easier to print?):
- https://www.scmp.com/news/hong-kong/health-environment/article/3052135/polytechnic-university-lab-3d-printing-face
- 
- https://www.coxhealth.com/innovation/
-
-# Working Fusion Models:  
--Live Link Prusa Bottom Reinforcement (original, for .5mm thick material) https://a360.co/2UbwLO5  
--Live Link Prusa Bottom Reinforcement (for 1.5mm thick material) https://a360.co/2QEyNnK  
--Believe this one should be a spot on replica, easy to alter the underlying sketches and file if needed  
--Live Link Prusa RC2  https://a360.co/3beMKk8  
--More straight lines in this model, much easier to sketch. Haven't test any prints, but model seems to be correct.  
--Live Link Prusa RC1  https://a360.co/2QAGLOJ  
